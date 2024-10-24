@@ -154,6 +154,7 @@ nav ul li a:hover {
 }
 
 .product-item {
+ 
     background-color: #fff;
     padding: 15px;
     border-radius: 8px;
@@ -165,8 +166,10 @@ nav ul li a:hover {
 }
 
 .product-item img {
+    height: 200px;
+    
     max-width: 100%;
-    height: auto;
+    /* height: auto; */
     margin-bottom: 10px;
 }
 
